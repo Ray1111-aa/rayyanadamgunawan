@@ -11,51 +11,31 @@ I focus on creating seamless web and mobile experiences that not only provide pr
 - **Cloud & CI/CD:** Docker · GitHub Actions · GitHub Pages · Firebase · Supabase · Flutter web deploy
 - **AI Skills:** AI driven engineering with Codex, Claude, Cursor AI & Gemini · GitHub Copilot · Prompt Engineering · MCP build skills · AI driven project planning and management
 
+---
+
 ### 🛠️ Favorite Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="48" height="48" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48" />
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
-      <br>Docker
-    </td>
-  </tr>
-</table>
+**Core Tech Stacks**
+<br>
+<img src="https://skillicons.dev/icons?i=php,laravel,react,flutter,tailwind" />
+<br><br>
+
+**Other Tech Stacks**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,postgres,firebase,supabase" />
+<br><br>
+
+**Tools & Environment**
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,docker,github,postman,figma" />
+<br><br>
 
 ---
 
 ### 📬 Connect with me
 
 <p align="left">
-  <!-- Buat Portfolio, LinkedIn sama Email biarin aja dulu gapapa kalau lu blm mau isi -->
+  <!-- Ganti URL # di bawah dengan link asli lu kalau udah ada -->
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
