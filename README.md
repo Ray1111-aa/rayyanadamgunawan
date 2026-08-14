@@ -1,5 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Rayyan Adam Gunawan</h1>
-<h3 align="center">A Website Developer & AI Enthusiast</h3>
+<p align="center">
+<marquee behavior="scroll" direction="right" scrollamount="5">
+&nbsp;&nbsp;&nbsp;
+🔵 Backend Developer
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+🤖 AI Enthusiast
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+🌐 Web Developer
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+⚽ Sport Lover
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+🏕️ Adventurer
+&nbsp;&nbsp;&nbsp;
+</marquee>
+</p>
 
 <br/>
 
