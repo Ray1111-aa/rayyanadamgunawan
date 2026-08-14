@@ -41,7 +41,7 @@ I'm **Rayyan Adam Gunawan**, an Information Systems student at **Universitas Jam
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Rayyan%20Adam-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rayanadamgunawan@gmail.com"><img src="https://img.shields.io/badge/Gmail-rayanadamgunawan-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/rayyanadamgunawan"><img src="https://img.shields.io/badge/GitHub-rayyanadamgunawan-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/rayyanadam05"><img src="https://img.shields.io/badge/Instagram-rayanadam05-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/rayyanadam05"><img src="https://img.shields.io/badge/Instagram-rayyanadam05-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <p align="center">
