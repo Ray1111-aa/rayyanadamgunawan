@@ -1,18 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Rayyan Adam Gunawan</h1>
 <p align="center">
-<marquee behavior="scroll" direction="right" scrollamount="5">
-&nbsp;&nbsp;&nbsp;
-🔵 Backend Developer
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-🤖 AI Enthusiast
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-🌐 Web Developer
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-⚽ Sport Lover
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-🏕️ Adventurer
-&nbsp;&nbsp;&nbsp;
-</marquee>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=4364F7&center=true&vCenter=true&multiline=false&width=600&lines=🔵+Backend+Developer;🤖+AI+Enthusiast;🌐+Web+Developer;⚽+Sport+Lover;🏕️+Adventurer" alt="Typing SVG" />
 </p>
 
 <br/>
