@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Rayyan Adam</h1>
-<h3 align="center">A Backend Developer & AI Enthusiast</h3>
+<h1 align="center">Hi there 👋, I'm Rayyan Adam Gunawan</h1>
+<h3 align="center">A Web Developer & AI Enthusiast</h3>
 
 <br/>
 
