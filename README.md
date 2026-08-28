@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Rayyan Adam Gunawan</h1>
+<h1 align="center">🌌 Hi there, I'm Rayyan Adam Gunawan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=4364F7&center=true&vCenter=true&width=500&lines=Web+Developer;AI+Enthusiast;Sport+Lover;Adventurer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=08A6C9&center=true&vCenter=true&width=500&lines=Backend+Architect;AI+Enthusiast;Digital+Ecosystem+Builder;Adventurer" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -9,19 +9,19 @@ I'm **Rayyan Adam Gunawan**, an Information Systems student at **Universitas Jam
 
 - 🔭 Currently working on sharpening my **Laravel, Python, and AI skills**
 - 🌱 Learning deep into **AI-driven Engineering** (Codex, Claude, Cursor)
-- 💬 Ask me about **Backend logic, PHP, and Tech**
+- 💬 Ask me about **Backend logic, PHP, and Tech ecosystems**
 - ⚡ Fun fact: I balance my coding hours with **outdoor adventures and sports!** 🏕️⚽
 
 <br/>
 
-### 💻 Tech Stack & Tools
+### 🚀 Tech Stack & Tools
 
-**Core Tech Stacks**
+**Core Systems**
 <br>
 <img src="https://skillicons.dev/icons?i=php,laravel,react,flutter,tailwind" />
 <br><br>
 
-**Other Tech Stacks**
+**Other Technologies**
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,postgres,firebase,supabase" />
 <br><br>
@@ -34,18 +34,19 @@ I'm **Rayyan Adam Gunawan**, an Information Systems student at **Universitas Jam
 
 ---
 
-### 📬 Connect with me
+### 🛰️ Connect with me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-My%20Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
+  <!-- Nanti tanda # di href ini jangan lupa diganti sama link web lu kalau udah online ya bre! -->
+  <a href="#"><img src="https://img.shields.io/badge/Cosmic_Portfolio-Visit_Now-08A6C9?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio" /></a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Rayyan%20Adam-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/rayyanadam"><img src="https://img.shields.io/badge/LinkedIn-Rayyan%20Adam-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rayanadamgunawan@gmail.com"><img src="https://img.shields.io/badge/Gmail-rayanadamgunawan-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/rayyanadamgunawan"><img src="https://img.shields.io/badge/GitHub-rayyanadamgunawan-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.instagram.com/rayyanadam05"><img src="https://img.shields.io/badge/Instagram-rayyanadam05-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rayyanadamgunawan&style=flat&color=4364F7&label=Profile+Views" height="20"/>
+  <img src="https://komarev.com/ghpvc/?username=rayyanadamgunawan&style=flat&color=08A6C9&label=Profile+Views" height="20"/>
 </p>
