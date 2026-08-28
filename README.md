@@ -38,7 +38,7 @@ I'm **Rayyan Adam Gunawan**, an Information Systems student at **Universitas Jam
 
 <p align="center">
   <!-- Nanti tanda # di href ini jangan lupa diganti sama link web lu kalau udah online ya bre! -->
-  <a href="#"><img src="https://img.shields.io/badge/Cosmic_Portfolio-Visit_Now-08A6C9?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://rayyan-portfolio-82b30.web.app"><img src="https://img.shields.io/badge/Cosmic_Portfolio-Visit_Now-08A6C9?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio" /></a>
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/rayyanadam"><img src="https://img.shields.io/badge/LinkedIn-Rayyan%20Adam-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
